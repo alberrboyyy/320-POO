@@ -10,8 +10,7 @@ namespace snail
     {
         static void Main(string[] args)
         {
-
-            Random rnd = new Random();  
+            Random rnd = new Random();
 
             int rand = rnd.Next(1, 100);
 
