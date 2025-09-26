@@ -1,6 +1,4 @@
-﻿using Drones.Helpers;
-
-namespace Drones
+﻿namespace Drones
 {
     partial class AirSpace
     {
@@ -43,7 +41,7 @@ namespace Drones
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(Config.WIDTH, Config.HEIGHT);
+            this.ClientSize = new System.Drawing.Size(1200, 600);
             this.Name = "AirSpace";
             this.Text = "AirSpace";
             this.ResumeLayout(false);

@@ -6,9 +6,8 @@ using System.Threading.Tasks;
 
 namespace Drones.Helpers
 {
-    internal class Config
+    internal class RandomHelpers
     {
-        public static readonly int WIDTH = 1200;
-        public static readonly int HEIGHT = 600;
+        public static Random random = new Random();
     }
 }
