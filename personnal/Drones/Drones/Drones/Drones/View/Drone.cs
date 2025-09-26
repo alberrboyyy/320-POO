@@ -1,6 +1,6 @@
 ﻿using Drones.Helpers;
 
-namespace Drones
+namespace Drones.Model
 {
     // Cette partie de la classe Drone définit comment on peut voir un drone
 
